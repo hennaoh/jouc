@@ -1,0 +1,20 @@
+# Archive
+
+<details><summary>Lists</summary>
+<ul>
+<li>[Monthly Roundups](https://paper.wf/jouc/monthly-roundups)</li>
+</ul>
+</details>
+
+<details><summary>Tech</summary>
+<ul>
+<li>[Creating a Flexoki theme for XFCE Terminal](https://paper.wf/jouc/creating-a-flexoki-theme-for-xfce-terminal)</li>
+</ul>
+</details>
+
+<details><summary>Others</summary>
+<ul>
+<li>[Reserve Your Expectations](https://paper.wf/jouc/reserve-your-expectations)</li>
+<li>[Creative Envy and Me](https://paper.wf/jouc/creative-envy-and-me)</li>
+</ul>
+</details>

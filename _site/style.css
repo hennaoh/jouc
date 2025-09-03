@@ -1,0 +1,52 @@
+/*flexoki light theme*/
+:root {
+    --bg: #FFFCF0; /*primary*/
+    --bg2: #F2F0E5; /*secondary*/
+    --tx: #100F0F; /*normal text*/
+    --tx2: #6F6E69; /*muted text*/
+    --tx3: #B7B5AC; /*faint text - comments*/
+    --ui: #E6E4D9; /*normal borders*/
+    --ui2: #DAD8CE; /*hovered borders*/
+    --ui3: #CECDC3; /*active borders*/
+    --re: #AF3029; /*error text*/
+    --re2: #D14D41;
+    --or: #BC5215; /*warning text*/
+    --or2: #DA702C;
+    --ye: #AD8301;
+    --ye2: #D0A215;
+    --gr: #66800B; /*success text*/
+    --gr2: #879A39;
+    --cy: #24837B; /*links, active states*/
+    --cy2: #3AA99F;
+    --cy700: #1C6C66; /*for better accessibility*/
+    --co1: #1c4a6d;
+    --co2: #1c216d;
+    --pu: #5E409D;
+    --pu2: #8B7EC8;
+    --bl: #205EA6;
+    --bl2: #4385BE;
+    --ma: #A02F6F;
+    --ma2: #CE5D97;
+}
+
+/*other variables*/
+:root {
+    --font-fancy: Lora, serif;
+    --font-sans: -apple-system, BlinkMacSystemFont, "Open Sans", Tahoma, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    --width: 720px;
+    /*--font-size: calc(1.5rem + 0.25vw);*/
+}
+
+/* Global styles */
+body, body p, article {
+    background-color: var(--bg);
+    color: var(--tx);
+    font-family: var(--font-sans) !important;
+    font-weight: 400;
+    line-height: 1.15;
+    margin: 2vw auto 0 auto;
+    max-width: var(--width);
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    text-rendering: optimizeLegibility;
+}
